@@ -1,0 +1,13 @@
+{
+    "name": "firmantr3/flipid-mini-project-test",
+    "description": "Flip.id Mini Project Test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Firman Taruna Nugraha",
+            "email": "firmantr3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
