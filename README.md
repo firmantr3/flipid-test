@@ -4,11 +4,10 @@ A minimal slightly-big Flip disbursement client
 
 ## Installation
 
-### Setup Config & Autoloader
+### Setup Config
 
 ```sh
-cp ./config/database.example.php ./config/database.php &&
-composer install
+cp ./config/database.example.php ./config/database.php
 ```
 
 ### Run Database Migration
