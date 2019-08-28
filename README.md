@@ -28,5 +28,11 @@ php disbursement.php
 ### Show & Update Disbursement Status
 
 ```sh
-php disbursementStatus.php {transaction_id}
+php disbursementStatus.php
+```
+
+### List Disbursement Data
+
+```sh
+php disbursementList.php {page}
 ```
