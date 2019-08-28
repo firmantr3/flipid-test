@@ -14,7 +14,7 @@ composer install
 ### Run Database Migration
 
 ```sh
-php migration.php
+php migrate.php
 ```
 
 ## Usage
